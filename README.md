@@ -1,43 +1,59 @@
-# Olá, eu sou o Klaus 👋
+# 👋 Olá, eu sou o Klaus!
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre buscando aprender e evoluir.  
-Tenho experiência em desenvolvimento web e backend, além de forte conhecimento em modelagem de dados.  
-
----
-
-## Tecnologias e Ferramentas
-
-Aqui estão algumas das principais tecnologias que utilizo no meu dia a dia de desenvolvimento:
-
-| Tecnologia     | Descrição rápida                           |
-|----------------|-------------------------------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | Marcação para estruturação de conteúdo web |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)   | Estilização e design visual de páginas     |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Linguagem de programação para interatividade web |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | Biblioteca para construção de interfaces de usuário |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Programação geral, automação e análise de dados |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | Ambiente de execução para JavaScript no backend |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)   | Programação orientada a objetos e sistemas robustos |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | Sistema de gerenciamento de banco de dados relacional |
-| ![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-6DB33F?style=flat&logo=draw.io&logoColor=white) | Design e organização eficiente de bases de dados |
-
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GregoryKz&color=blue" alt="Visualizações do perfil" />
+</p>
 
 ## Sobre mim
 
-- Estou sempre aberto a aprender novas tecnologias e metodologias.  
-- Gosto de trabalhar em projetos que impactam positivamente a vida das pessoas.  
-- Valorizo boas práticas, código limpo e trabalho em equipe.  
+Sou um apaixonado por tecnologia e desenvolvimento, focado em entregar soluções que fazem a diferença. Atualmente, atuo como Product Owner e desenvolvedor, com experiência em diversas linguagens e tecnologias, sempre buscando aprendizado contínuo e inovação.
+
+> "De onde vim, aonde cheguei, e o que posso construir daqui pra frente."
 
 ---
 
-## Contato
+## 🚀 Tecnologias que uso
 
-Você pode me encontrar nas redes abaixo:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Klaus-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gregory-klaus-silva-pereira-4a0841228/)  
-[![GitHub](https://img.shields.io/badge/GitHub-GregoryKz-black?style=flat&logo=github&logoColor=white)](https://github.com/GregoryKz)
+<p align="center">
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img alt="Data Modeling" src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" height="40"/>
+</p>
 
 ---
 
-Obrigado pela visita! Vamos construir coisas incríveis juntos. 🚀
+## 📊 Meu GitHub em números
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GregoryKz&show_icons=true&theme=radical&hide_title=true" alt="Estatísticas de GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregoryKz&layout=compact&theme=radical&hide_title=true" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
+## 💼 Projetos em destaque
+
+### [Devance](https://devance.com.br)
+
+Plataforma focada em personalizar o roadmap de aprendizado em tecnologia para jovens e profissionais em transição de carreira, com um sistema de perguntas que monta um caminho único para cada usuário.
+
+---
+
+## 📫 Contato
+
+- [GitHub](https://github.com/GregoryKz)  
+- [LinkedIn](https://www.linkedin.com/in/gregory-klaus-silva-pereira-4a0841228/)  
+
+---
+
+Obrigado por visitar meu perfil! Vamos construir algo incrível juntos 🚀
+
