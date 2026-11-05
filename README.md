@@ -39,12 +39,12 @@ Na prática, isso inclui:
 
 ## GitHub em números
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GregoryKz&show_icons=true&hide_border=true&locale=pt-br)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
-  <img alt="Animação de uma cobrinha azul percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/github-snake.svg">
+  <img alt="Animação de uma cobrinha azul percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/github-snake.svg">
 </picture>
 
 ## Projetos em destaque
