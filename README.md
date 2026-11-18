@@ -61,14 +61,14 @@ Em sala de aula, ajudo alunos a construir lógica de programação, fundamentos 
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| 🔗 [**integracao-omie**](https://github.com/GregoryKz/integracao-omie) | Integração financeira com o ERP Omie: contas a pagar multi-CNPJ e rateio por centro de custo | PHP · API REST |
-| 🤟 [**reconhecimento-libras**](https://github.com/GregoryKz/reconhecimento-libras) | Reconhecimento de Libras (Língua Brasileira de Sinais) para aplicações acessíveis | Python |
-| 💰 [**cash-flow-api**](https://github.com/GregoryKz/cash-flow-api) | API de fluxo de caixa | Node.js · Express · MySQL |
-| 🎬 [**senac-web2-cine-ghibli**](https://github.com/GregoryKz/senac-web2-cine-ghibli) | Catálogo de filmes do Studio Ghibli consumindo API | HTML · CSS · JavaScript |
-| 🛍️ [**react-vitrine-digital**](https://github.com/GregoryKz/react-vitrine-digital) | Vitrine digital KsTech, projeto final de React | React · Vite |
-| 🎓 [**devance**](https://gregorykz.github.io/devance/) | Plataforma de aprendizado, projeto do Demoday | HTML · CSS · JavaScript |
-| 🔎 [**buscador-perfil-github**](https://gregorykz.github.io/buscador-perfil-github/) | Busca perfis do GitHub via API: avatar, bio, repositórios e seguidores | JavaScript · API |
-| 🃏 [**super-trunfo**](https://gregorykz.github.io/super-trunfo/) | Jogo Super Trunfo de carros antigos contra a máquina | JavaScript |
+| [**integracao-omie**](https://github.com/GregoryKz/integracao-omie) | Integração financeira com o ERP Omie: contas a pagar multi-CNPJ e rateio por centro de custo | PHP · API REST |
+| [**reconhecimento-libras**](https://github.com/GregoryKz/reconhecimento-libras) | Reconhecimento de Libras (Língua Brasileira de Sinais) para aplicações acessíveis | Python |
+| [**cash-flow-api**](https://github.com/GregoryKz/cash-flow-api) | API de fluxo de caixa | Node.js · Express · MySQL |
+| [**senac-web2-cine-ghibli**](https://github.com/GregoryKz/senac-web2-cine-ghibli) | Catálogo de filmes do Studio Ghibli consumindo API | HTML · CSS · JavaScript |
+| [**react-vitrine-digital**](https://github.com/GregoryKz/react-vitrine-digital) | Vitrine digital KsTech, projeto final de React | React · Vite |
+| [**devance**](https://gregorykz.github.io/devance/) | Plataforma de aprendizado, projeto do Demoday | HTML · CSS · JavaScript |
+| [**buscador-perfil-github**](https://gregorykz.github.io/buscador-perfil-github/) | Busca perfis do GitHub via API: avatar, bio, repositórios e seguidores | JavaScript · API |
+| [**super-trunfo**](https://gregorykz.github.io/super-trunfo/) | Jogo Super Trunfo de carros antigos contra a máquina | JavaScript |
 
 ---
 
@@ -95,7 +95,7 @@ Em sala de aula, ajudo alunos a construir lógica de programação, fundamentos 
   <img alt="Carro fazendo drift no gráfico de contribuições" src="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/drift.svg">
 </picture>
 
-<sub>🏎️💨 Atualizado todo dia: um carro fazendo drift em cima das minhas contribuições do último ano.</sub>
+<sub>Atualizado todo dia: um carro fazendo drift em cima das minhas contribuições do último ano.</sub>
 
 </div>
 
