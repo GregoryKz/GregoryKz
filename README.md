@@ -20,12 +20,12 @@
 
 ```js
 const klaus = {
-  cargo:      "Desenvolvedor Trainee",
-  stack:      ["PHP", "Python", "JavaScript", "SQL"],
-  tambem:     ["Node.js", "React", "Java", "C#", "C"],
-  foco:       ["Sistemas web", "APIs e integrações", "Automação", "IA aplicada"],
-  ensino:     ["Docente no Senac", "Professor e mentor no Proa"],
-  acredito:   "Tecnologia é ferramenta de transformação para negócios e para pessoas.",
+  cargo:  "Desenvolvedor Trainee",
+  stack:  ["PHP", "Python", "JavaScript", "SQL"],
+  extra:  ["Node.js", "React", "Java", "C#"],
+  foco:   ["Web", "APIs", "Automação", "IA"],
+  ensino: ["Senac", "Proa"],
+  lema:   "Tecnologia que transforma pessoas",
 };
 ```
 
@@ -85,17 +85,17 @@ Em sala de aula, ajudo alunos a construir lógica de programação, fundamentos 
 
 ---
 
-## `> ./dragon --burn contributions`
+## `> ./drift --burnout contributions`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/dragon-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/dragon.svg">
-  <img alt="Dragão sobrevoando e queimando o gráfico de contribuições" src="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/dragon.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/drift-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/drift.svg">
+  <img alt="Carro fazendo drift no gráfico de contribuições" src="https://raw.githubusercontent.com/GregoryKz/GregoryKz/output/drift.svg">
 </picture>
 
-<sub>🐉 Atualizado todo dia: o dragão sobrevoa e queima as minhas contribuições do último ano.</sub>
+<sub>🏎️💨 Atualizado todo dia: um carro fazendo drift em cima das minhas contribuições do último ano.</sub>
 
 </div>
 
