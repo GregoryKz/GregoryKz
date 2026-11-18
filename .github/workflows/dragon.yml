@@ -1,4 +1,4 @@
-name: Gerar dragão das contribuições
+name: Gerar drift das contribuições
 
 on:
   schedule:
@@ -20,8 +20,8 @@ jobs:
       - name: Baixar o repositório
         uses: actions/checkout@v4
 
-      - name: Gerar os SVGs do dragão
-        run: python3 dragon.py --user "${{ github.repository_owner }}" --out dist
+      - name: Gerar os SVGs do drift
+        run: python3 drift.py --user "${{ github.repository_owner }}" --out dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
